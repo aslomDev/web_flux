@@ -71,6 +71,8 @@ public class OrderV2Service {
 //            return null;
 //        });
 
+        System.out.println("testByAslm");
+
 
         Mono<Product> product = productRepository.findById(orderDto.getPr_id());
 //            .flatMap(product1 -> {
