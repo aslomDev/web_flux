@@ -19,6 +19,7 @@ public class OrderV2 implements Serializable {
     @Id
     private Long id;
 
+    //test
     @Column("quantity")
     private Long quantity;
 
