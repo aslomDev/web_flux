@@ -43,7 +43,7 @@
     "clientThemeVariant": "",
     "withAdminUi": true,
     "languages": ["en", "fr"],
-    "lastLiquibaseTimestamp": 1631172153000,
-    "entities": ["Order", "Product", "Custumer", "DetailForOrder"]
+    "lastLiquibaseTimestamp": 1631510974000,
+    "entities": ["Order", "Product", "Custumer", "DetailForOrder", "DetailForObject", "OrderV2"]
   }
 }
