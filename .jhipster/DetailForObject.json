@@ -1,0 +1,9 @@
+{
+  "fields": [],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "DetailForObject",
+  "changelogDate": "20210913051635"
+}
